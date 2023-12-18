@@ -22,11 +22,13 @@
 
 
 <b>Front-end Developer - Compasso UOL (feb 2020 - jul 2021)</b>
+
 At Compasso, I made significant contributions to web application development, focusing primarily on the Vue.js framework.
 <b>Vue.js Development:</b>Tasked with building and implementing responsive and dynamic user interfaces using Vue.js, ensuring an interactive experience for end users.
 
 
 <b>Full-stack Developer - Loy Legal (feb 2018 - jul 2020)</b>
+
 Led the development of complete applications, from architecture to implementation, using various technologies to deliver efficient and scalable solutions. As a Full-stack Developer at 2ADV Legal Solutions, I played a key role in developing and maintaining technological solutions to streamline legal processes.
 <b>Skills</b>: MongoDB · Amazon SQS · RESTful APIs · hapi.js · Node.js · Ember.js · Express.js"
 
