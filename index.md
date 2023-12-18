@@ -36,12 +36,12 @@ Led the development of complete applications, from architecture to implementatio
 ---
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 - FILMOW](/[sample_page](https://github.com/tiodospc/Filmow-Projeto-Prog2?tab=readme-ov-file))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/[114106697-bc3be600-98a5-11eb-9d96-d24c31f1ac74](https://github.com/tiodospc/portfolio/assets/31110504/accec0af-3f90-4089-8886-d6a761650a03)?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
