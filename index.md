@@ -12,12 +12,13 @@
 
 <b>Software Engineer - Hotmart (jun 2021 - Present)</b>
 
-React Development: Proficient in building modern and responsive web applications using React. I implement up-to-date practices and scalable architectures to deliver exceptional user experiences.
+<ul>
+<li>React Development: Proficient in building modern and responsive web applications using React. I implement up-to-date practices and scalable architectures to deliver exceptional user experiences.</li>
 
-TypeScript: Specialized in using TypeScript to ensure safer, more readable, and maintainable code. I make the most of the benefits of static type systems to reduce errors and increase code quality.
+<li>TypeScript: Specialized in using TypeScript to ensure safer, more readable, and maintainable code. I make the most of the benefits of static type systems to reduce errors and increase code quality.</li>
 
-Jest Testing: Experienced in creating and running automated tests using Jest, ensuring the robustness and reliability of the developed code.
-
+<li>Jest Testing: Experienced in creating and running automated tests using Jest, ensuring the robustness and reliability of the developed code.</li>
+</ul>
 <b>Front-end Developer - Compasso UOL (feb 2019 - jul 2021)</b>
 
 
