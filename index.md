@@ -1,7 +1,13 @@
 ## Portfolio
 
 ---
+Education
 
+<ul>
+  <li>Computer Science Degree - Universidade Federal da Fronteira Sul - 2017 - Current</li>
+</ul>
+
+---
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
