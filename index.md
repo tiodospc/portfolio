@@ -37,31 +37,39 @@ Led the development of complete applications, from architecture to implementatio
 ### WEB DEVELOPER 
 
 <a href="https://github.com/tiodospc/TCC2-Final">[Project 1 - FINAL PAPER - (TCC)]</a>
+
 Project developed for the Computer Science degree completion at the Federal University of Fronteira Sul using React. The aim of this project was to describe, step by step, the implementation of tracking and data capture of users for parameterization in Google Analytics. Within this project, I guide the reader on the most effective methods to gain insights through tracking procedures.
+
 <img src="https://github.com/tiodospc/portfolio/assets/31110504/5efe7b36-ccf9-4167-ae7b-ef32f23fe283" alt='test' />
 ---
+
 <a href="https://github.com/tiodospc/TCC2-Final">[Project 2 - Be the Hero]</a>
+
 Application made for ONGs to register cases of incidents that need volunteers to help financially with React.js
-![behero](https://github.com/tiodospc/portfolio/assets/31110504/0baa137e-5190-4ed0-a87b-7706d6fb3248)
+
+<img src="https://github.com/tiodospc/portfolio/assets/31110504/0baa137e-5190-4ed0-a87b-7706d6fb3248" alt='test' />
 
 ---
-[Project 3 FILMOW]([http://example.com/](https://github.com/tiodospc/Filmow-Projeto-Prog2))
+
+<a href='https://github.com/tiodospc/Filmow-Projeto-Prog2'>[Project 3 FILMOW]</a>
+
 Project created using HTML + CSS + Material UI + JavaScript, which is a movie website showcasing general public ratings, image carousels, movie ratings, comments, and the latest news.
-![114106697-bc3be600-98a5-11eb-9d96-d24c31f1ac74](https://github.com/tiodospc/portfolio/assets/31110504/1b51ca4c-a4dd-471a-8633-0c2fb69d231f)
 
+<img src='https://github.com/tiodospc/portfolio/assets/31110504/1b51ca4c-a4dd-471a-8633-0c2fb69d231f' alt='est' />
 ---
 
-[Project 4 Monte sua Pizza]([LINK](https://github.com/tiodospc/monte-suapizza))
+<a href='https://github.com/tiodospc/monte-suapizza'>[Project 4 Monte sua Pizza]</a>
+
 A project developed using React + Express with a mocked database to create a pizza with ingredients added via JSON on the backend. The interface has 2 inputs to receive the customer's desired order according to their preferences."
-![115179186-207e5700-a0a9-11eb-90e4-5716184c206e](https://github.com/tiodospc/portfolio/assets/31110504/3b3c34ba-0e64-456b-a912-2b2a655971ce)
 
+<img src='https://github.com/tiodospc/portfolio/assets/31110504/3b3c34ba-0e64-456b-a912-2b2a655971ce' alt='te' />
 ---
-[Project 5 eleveparfumeur]([LINK][(https://eleveparfumeur.com/))
+
+<a href='https://eleveparfumeur.com/'>[Project 5 eleveparfumeur]</a>
 
 Project developed in wordpress at the client's request, a blog for a perfume chemist who wanted to make posts for their clients.
 
-![ELEV](https://github.com/tiodospc/portfolio/assets/31110504/cc7eaa4d-aca5-4466-a30c-2cce5e8bca72)
-
+<img src='https://github.com/tiodospc/portfolio/assets/31110504/cc7eaa4d-aca5-4466-a30c-2cce5e8bca72' alt='elev'/>
 ---
 
 ### Academic Publications
