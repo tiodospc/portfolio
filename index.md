@@ -41,6 +41,7 @@ Led the development of complete applications, from architecture to implementatio
 Project developed for the Computer Science degree completion at the Federal University of Fronteira Sul using React. The aim of this project was to describe, step by step, the implementation of tracking and data capture of users for parameterization in Google Analytics. Within this project, I guide the reader on the most effective methods to gain insights through tracking procedures.
 
 <img src='https://github.com/tiodospc/portfolio/assets/31110504/5efe7b36-ccf9-4167-ae7b-ef32f23fe283' alt='test' />
+
 ---
 
 <a href="https://github.com/tiodospc/TCC2-Final">[Project 2 - Be the Hero]</a>
@@ -56,6 +57,7 @@ Application made for ONGs to register cases of incidents that need volunteers to
 Project created using HTML + CSS + Material UI + JavaScript, which is a movie website showcasing general public ratings, image carousels, movie ratings, comments, and the latest news.
 
 <img src='https://github.com/tiodospc/portfolio/assets/31110504/1b51ca4c-a4dd-471a-8633-0c2fb69d231f' alt='est' />
+
 ---
 
 <a href='https://github.com/tiodospc/monte-suapizza'>[Project 4 Monte sua Pizza]</a>
@@ -63,6 +65,7 @@ Project created using HTML + CSS + Material UI + JavaScript, which is a movie we
 A project developed using React + Express with a mocked database to create a pizza with ingredients added via JSON on the backend. The interface has 2 inputs to receive the customer's desired order according to their preferences."
 
 <img src='https://github.com/tiodospc/portfolio/assets/31110504/3b3c34ba-0e64-456b-a912-2b2a655971ce' alt='te' />
+
 ---
 
 <a href='https://eleveparfumeur.com/'>[Project 5 eleveparfumeur]</a>
@@ -70,6 +73,7 @@ A project developed using React + Express with a mocked database to create a piz
 Project developed in wordpress at the client's request, a blog for a perfume chemist who wanted to make posts for their clients.
 
 <img src='https://github.com/tiodospc/portfolio/assets/31110504/cc7eaa4d-aca5-4466-a30c-2cce5e8bca72' alt='elev'/>
+
 ---
 
 ### Academic Publications
