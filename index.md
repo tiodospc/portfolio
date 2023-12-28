@@ -36,14 +36,11 @@ Led the development of complete applications, from architecture to implementatio
 ---
 ### WEB DEVELOPER 
 
-
-[Project 1 - FINAL PAPER - (TCC)](/[LINK](https://github.com/tiodospc/TCC2-Final))
+<a href="https://github.com/tiodospc/TCC2-Final">[Project 1 - FINAL PAPER - (TCC)]</a>
 Project developed for the Computer Science degree completion at the Federal University of Fronteira Sul using React. The aim of this project was to describe, step by step, the implementation of tracking and data capture of users for parameterization in Google Analytics. Within this project, I guide the reader on the most effective methods to gain insights through tracking procedures.
-![TCC 2 - EXEMPLO](https://github.com/tiodospc/portfolio/assets/31110504/5efe7b36-ccf9-4167-ae7b-ef32f23fe283)
-
+<img src="https://github.com/tiodospc/portfolio/assets/31110504/5efe7b36-ccf9-4167-ae7b-ef32f23fe283" alt='test' />
 ---
-
-[Project 2 - Be the Hero](/[LINK][(https://github.com/tiodospc/be-the-hero))
+<a href="https://github.com/tiodospc/TCC2-Final">[Project 2 - Be the Hero]</a>
 Application made for ONGs to register cases of incidents that need volunteers to help financially with React.js
 ![behero](https://github.com/tiodospc/portfolio/assets/31110504/0baa137e-5190-4ed0-a87b-7706d6fb3248)
 
