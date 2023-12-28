@@ -40,7 +40,7 @@ Led the development of complete applications, from architecture to implementatio
 
 Project developed for the Computer Science degree completion at the Federal University of Fronteira Sul using React. The aim of this project was to describe, step by step, the implementation of tracking and data capture of users for parameterization in Google Analytics. Within this project, I guide the reader on the most effective methods to gain insights through tracking procedures.
 
-<img src="https://github.com/tiodospc/portfolio/assets/31110504/5efe7b36-ccf9-4167-ae7b-ef32f23fe283" alt='test' />
+<img src='https://github.com/tiodospc/portfolio/assets/31110504/5efe7b36-ccf9-4167-ae7b-ef32f23fe283' alt='test' />
 ---
 
 <a href="https://github.com/tiodospc/TCC2-Final">[Project 2 - Be the Hero]</a>
