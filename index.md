@@ -34,33 +34,44 @@ Led the development of complete applications, from architecture to implementatio
 
 
 ---
-### Category Name 1 
+### WEB DEVELOPER 
 
-[Project 1 - FILMOW](/[sample_page](https://github.com/tiodospc/Filmow-Projeto-Prog2?tab=readme-ov-file))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/[114106697-bc3be600-98a5-11eb-9d96-d24c31f1ac74](https://github.com/tiodospc/portfolio/assets/31110504/accec0af-3f90-4089-8886-d6a761650a03)?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 - FINAL PAPER - (TCC)](/[LINK](https://github.com/tiodospc/TCC2-Final))
+Project developed for the Computer Science degree completion at the Federal University of Fronteira Sul using React. The aim of this project was to describe, step by step, the implementation of tracking and data capture of users for parameterization in Google Analytics. Within this project, I guide the reader on the most effective methods to gain insights through tracking procedures.
+![TCC 2 - EXEMPLO](https://github.com/tiodospc/portfolio/assets/31110504/5efe7b36-ccf9-4167-ae7b-ef32f23fe283)
 
 ---
 
-### Category Name 2
+[Project 2 - Be the Hero](/[LINK][(https://github.com/tiodospc/be-the-hero))
+Application made for ONGs to register cases of incidents that need volunteers to help financially with React.js
+![behero](https://github.com/tiodospc/portfolio/assets/31110504/0baa137e-5190-4ed0-a87b-7706d6fb3248)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+[Project 3 FILMOW]([http://example.com/](https://github.com/tiodospc/Filmow-Projeto-Prog2))
+Project created using HTML + CSS + Material UI + JavaScript, which is a movie website showcasing general public ratings, image carousels, movie ratings, comments, and the latest news.
+![114106697-bc3be600-98a5-11eb-9d96-d24c31f1ac74](https://github.com/tiodospc/portfolio/assets/31110504/1b51ca4c-a4dd-471a-8633-0c2fb69d231f)
 
 ---
 
+[Project 4 Monte sua Pizza]([LINK](https://github.com/tiodospc/monte-suapizza))
+A project developed using React + Express with a mocked database to create a pizza with ingredients added via JSON on the backend. The interface has 2 inputs to receive the customer's desired order according to their preferences."
+![115179186-207e5700-a0a9-11eb-90e4-5716184c206e](https://github.com/tiodospc/portfolio/assets/31110504/3b3c34ba-0e64-456b-a912-2b2a655971ce)
 
+---
+[Project 5 eleveparfumeur]([LINK][(https://eleveparfumeur.com/))
 
+Project developed in wordpress at the client's request, a blog for a perfume chemist who wanted to make posts for their clients.
+
+![ELEV](https://github.com/tiodospc/portfolio/assets/31110504/cc7eaa4d-aca5-4466-a30c-2cce5e8bca72)
+
+---
+
+### Academic Publications
+
+- [Project 1 MAPEAMENTO DE DOENÇAS INFECTOCONTAGIOSAS](https://portaleventos.uffs.edu.br/index.php/SEPE-UFFS/article/view/9406/6622)
+
+---
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
